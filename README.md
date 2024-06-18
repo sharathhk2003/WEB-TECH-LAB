@@ -1,4 +1,4 @@
-Jss-stu-Web-Technology-Lab
+
 1.Design web a page for the department timetable containing a suitable header, footer, description of the course codes and titles, faculty name and initialises, etc., use href, list tags and add University logo as a background. Using table tag and additional features like spanning rows, columns and table borders. [Refer your class timetable]
 
 2 a) Create a form to collect Student feedback. (Use textbox, text area, checkbox, radio button, select box etc.).
